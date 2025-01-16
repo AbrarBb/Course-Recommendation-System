@@ -9,8 +9,8 @@ class DatabaseConfig {
   static final settings = ConnectionSettings(
     host: 'localhost',
     port: 3306,
-    user: 'root',
-    password: 'password',
+    user: 'lajim',
+    password: '1234',
     db: 'course_recommendation'
   );
 }
